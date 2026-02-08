@@ -7,6 +7,7 @@
     <groupId>io.github.356110537</groupId>
     <artifactId>spring-ai-356110537-starter-memory-redis</artifactId>
     <version>${revision}</version>
+    <packaging>jar</packaging>
     <name>spring-ai-356110537-starter-memory-redis</name>
     <description>spring-ai memory redis</description>
     <url>https://github.com/356110537/spring-ai-memory-redis</url>
