@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.iflytek.ai.memory.redis.config.RedisChatMemoryAutoConfiguration",
+      "sourceType": "com.iflytek.ai.memory.redis.config.RedisChatMemoryAutoConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.ai.iflytek.redis-memory.prefix",
+      "defaultValue": "chat_memory:",
+      "type": "java.lang.String",
+      "description": "Redis prefix in Spring AI Redis memory",
+      "sourceType": "com.iflytek.ai.memory.redis.config.RedisChatMemoryAutoConfiguration"
+    }
+  ],
+  "hints": []
+}
